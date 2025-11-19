@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+session.json
+tailwindui_library/
+*.log
+debug_*
+.DS_Store
