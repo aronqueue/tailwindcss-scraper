@@ -32,8 +32,8 @@ By having all your templates (Vue, React, HTML) saved locally, you can easily pr
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
-    cd tailwind-ui-scraper
+    git clone [<repository-url>](https://github.com/aronqueue/tailwindcss-scraper.git)
+    cd tailwindcss-scraper
     ```
 
 2.  **Install dependencies:**
